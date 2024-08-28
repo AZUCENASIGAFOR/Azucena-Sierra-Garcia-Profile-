@@ -22,6 +22,8 @@
             max-width: 800px;
             margin: auto;
             background-color: white;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
         }
         h2 {
             color: #4CAF50;
@@ -34,16 +36,6 @@
         }
         ul li {
             margin-bottom: 10px;
-        }
-        .cv-section {
-            margin-bottom: 40px;
-        }
-        .cv-section h2 {
-            border-bottom: 2px solid #4CAF50;
-            padding-bottom: 10px;
-        }
-        .contact-info {
-            margin-bottom: 40px;
         }
         .contact-info p {
             margin: 5px 0;
@@ -68,7 +60,11 @@
         <!-- Professional Introduction -->
         <section id="introduction">
             <h2>Professional Introduction</h2>
-            <p>Azucena Sierra Garcia is a dedicated professional with a strong background in Land and Atmospheric Science, with extensive research and work experience in forest sciences, small-scale agriculture, and environmental projects. She is committed to advancing knowledge in sustainable land management and conservation.</p>
+            <p>Soil scientist and indigenous leader with  a strong backgroundin agronomy, Azucena Sierra Garcia has extensive research and work experience in forest sciences, small-scale agriculture, and environmental projects. Her commitment to advancing knowledge in sustainable land management and conservation. Her work integrates scientific expertise with a deep understanding of indigenous practices, aiming to promote sustainable agricultural practices in diverse environments.</p>
+  <!-- Research focus -->
+        <section id="Focus">
+            <h2>Research Focus</h2>
+<p>Azucena Sierra Garcia's research focuses on the health of soils in small-scale agricultural systems. She uses precision agriculture tools to analyze the geomorphological characteristics of landscapes, particularly in complex and mountainous terrains. Her studies investigate soil erosion processes in steep terrains and the dynamics of soil organic carbon and nitrogen. The goal is to understand their behavior in organic production systems and improve soil management practices to enhance agricultural sustainability and productivity in challenging environments.</p>
         </section>
 
         <!-- Education -->
@@ -200,7 +196,5 @@
                     <strong>Autonomous University of Chapingo Award</strong> <br>
                     <em>December 2017</em><br>
                     Recognition for students with high academic achievement.
-                </li>
-                <li>
-                    <strong
+
   
