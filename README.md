@@ -13,7 +13,7 @@
         }
         header {
             position: relative;
-            background-image: url('.github/DSCN0378.JPG'); /* Update with your image path */
+            background-image: url('./.github/DSCN0378.JPG'); /* Update with your image path */
             background-size: cover;
             background-position: center;
             color: white;
@@ -235,7 +235,6 @@
             <ul>
                 <li><a href=" https://snail-dalmatian-2fgp.squarespace.com/news/mini-grant-awarded" target="_blank"> Connecting and Engaging Young Indigenous Voices in Agricultural Science: Encouraging Leadership to Tackle the Food Climate Crisis in Indigenous Agriculture</a></li>
 
-</
 
   
 
