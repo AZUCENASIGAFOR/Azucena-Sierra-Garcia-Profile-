@@ -102,14 +102,14 @@
 
     <header>
         <div class="profile-pic">
-            <img src=".github/Grad_School_210902_TN_0137.jpg" alt="Azucena Sierra Garcia">
+            <img src="./.github/Grad_School_210902_TN_0137.jpg" alt="Azucena Sierra Garcia">
         </div>
         <div>
             <h1>Azucena Sierra Garcia</h1>
             <p>Professional Profile</p>
         </div>
         <div class="qr-code">
-            <img src=".github/ORCID.png" alt="QR Code">
+            <img src="./.github/ORCID.png" alt="QR Code">
         </div>
     </header>
 
@@ -234,9 +234,6 @@
             <p><strong>Projects:</strong></p>
             <ul>
                 <li><a href=" https://snail-dalmatian-2fgp.squarespace.com/news/mini-grant-awarded" target="_blank"> Connecting and Engaging Young Indigenous Voices in Agricultural Science: Encouraging Leadership to Tackle the Food Climate Crisis in Indigenous Agriculture</a></li>
-</section>
-
-    </div>
 
 </
 
