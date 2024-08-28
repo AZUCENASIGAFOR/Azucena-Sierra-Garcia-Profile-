@@ -234,7 +234,3 @@
             <p><strong>Projects:</strong></p>
             <ul>
                 <li><a href=" https://snail-dalmatian-2fgp.squarespace.com/news/mini-grant-awarded" target="_blank"> Connecting and Engaging Young Indigenous Voices in Agricultural Science: Encouraging Leadership to Tackle the Food Climate Crisis in Indigenous Agriculture</a></li>
-
-
-  
-
