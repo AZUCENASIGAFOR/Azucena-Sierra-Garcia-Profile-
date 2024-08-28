@@ -103,7 +103,7 @@
 
     <header>
         <div class="profile-pic">
-            <img src="path/to/your-picture.jpg" alt="Azucena Sierra Garcia">
+            <img src=".github/Grad_School_210902_TN_0137.jpg" alt="Azucena Sierra Garcia">
         </div>
         <div>
             <h1>Azucena Sierra Garcia</h1>
