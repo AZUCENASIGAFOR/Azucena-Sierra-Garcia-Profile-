@@ -110,7 +110,7 @@
             <p>Professional Profile</p>
         </div>
         <div class="qr-code">
-            <img src="path/to/your-qr-code.png" alt="QR Code">
+            <img src=".github/ORCID.png" alt="QR Code">
         </div>
     </header>
 
@@ -119,7 +119,7 @@
         <!-- Contact Information -->
         <section class="contact-info">
             <h2>Contact Information</h2>
-            <p><strong>Address:</strong> 1176 Fifield Ave, Saint Paul, 55108</p>
+            <p><strong>Address:</strong> 420 N Mississippi River Blvd, Saint Paul, 55104</p>
             <p><strong>Email:</strong> <a href="mailto:sierr047@umn.edu">sierr047@umn.edu</a></p>
             <p><strong>Phone:</strong> (123) 456-7890</p> <!-- Add phone number if applicable -->
             <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/azucena-sierragarcia" target="_blank">linkedin.com/in/azucena-sierragarcia</a></p> <!-- Update with your LinkedIn URL -->
@@ -229,15 +229,13 @@
             <h2>Videos and Projects</h2>
             <p><strong>Videos:</strong></p>
             <ul>
-                <li><a href="https://www.youtube.com/watch?v=example1" target="_blank">Exploring Soil Health in Small-Scale Agriculture</a></li>
-                <li><a href="https://www.youtube.com/watch?v=example2" target="_blank">Indigenous Practices in Sustainable Land Management</a></li>
+                <li><a href="https://www.youtube.com/watch?v=ZJkKumkm-cw" target="_blank">Mountain Smallholder Agriculture: Rethinking Coffee Systems From Indigenous Perspectives </a></li>
+                <li><a href="https://www.youtube.com/watch?v=wg3baBnhOvI" target="_blank">Listening to the Land: Integrating Indigenous and Local Knowledge in Researching Agroforestry Systems in the Mountains of Mexicot</a></li>
             </ul>
             <p><strong>Projects:</strong></p>
             <ul>
-                <li><a href="https://www.example.com/project1" target="_blank">Project on Soil Erosion in Mountainous Terrains</a></li>
-                <li><a href="https://www.example.com/project2" target="_blank">Organic Carbon Dynamics in Small-Scale Farms</a></li>
-            </ul>
-        </section>
+                <li><a href=" https://snail-dalmatian-2fgp.squarespace.com/news/mini-grant-awarded" target="_blank"> Connecting and Engaging Young Indigenous Voices in Agricultural Science: Encouraging Leadership to Tackle the Food Climate Crisis in Indigenous Agriculture</a></li>
+</section>
 
     </div>
 
