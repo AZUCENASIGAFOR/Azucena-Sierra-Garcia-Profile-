@@ -13,7 +13,7 @@
         }
         header {
             position: relative;
-            background-image: url('.github/DSCN0378.JPG'); /* Update with your image path */
+            background-image: url('./.github/DSCN0378.JPG'); /* Update with your image path */
             background-size: cover;
             background-position: center;
             color: white;
