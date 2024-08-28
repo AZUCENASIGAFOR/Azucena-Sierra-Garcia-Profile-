@@ -122,8 +122,8 @@
             <p><strong>Address:</strong> 420 N Mississippi River Blvd, Saint Paul, 55104</p>
             <p><strong>Email:</strong> <a href="mailto:sierr047@umn.edu">sierr047@umn.edu</a></p>
             <p><strong>Phone:</strong> (123) 456-7890</p> <!-- Add phone number if applicable -->
-            <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/azucena-sierragarcia" target="_blank">linkedin.com/in/azucena-sierragarcia</a></p> <!-- Update with your LinkedIn URL -->
-        </section>
+              <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/azucena-sierragarcia" target="_blank">linkedin.com/in/azucena-sierragarcia</a></p> <!-- Update with your LinkedIn URL -->
+    </section>
 
         <!-- Professional Introduction -->
         <section id="introduction">
