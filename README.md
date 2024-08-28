@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -12,10 +13,51 @@
             background-color: #f4f4f4;
         }
         header {
-            background-color: #4CAF50;
+            position: relative;
+            background-image: url('.github/DSCN0378.JPG'); /* Update with your image path */
+            background-size: cover;
+            background-position: center;
             color: white;
             padding: 20px;
-            text-align: center;
+            height: 200px; /* Adjust height as needed */
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+        }
+        header .profile-pic {
+            position: absolute;
+            left: 20px;
+            top: 20px;
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            overflow: hidden;
+            border: 2px solid white;
+        }
+        header .profile-pic img {
+            width: 100%;
+            height: auto;
+        }
+        header .qr-code {
+            position: absolute;
+            right: 20px;
+            top: 20px;
+            width: 100px;
+            height: 100px;
+            border: 2px solid white;
+            overflow: hidden;
+        }
+        header .qr-code img {
+            width: 100%;
+            height: auto;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2em;
+        }
+        header p {
+            margin: 0;
+            font-size: 1.2em;
         }
         .container {
             padding: 20px;
@@ -42,33 +84,57 @@
             border-bottom: 2px solid #4CAF50;
             padding-bottom: 10px;
         }
-        .contact-info {
+        .contact-info, .videos-projects {
             margin-bottom: 40px;
         }
-        .contact-info p {
+        .contact-info p, .videos-projects a {
             margin: 5px 0;
+        }
+        .videos-projects a {
+            color: #4CAF50;
+            text-decoration: none;
+        }
+        .videos-projects a:hover {
+            text-decoration: underline;
         }
     </style>
 </head>
 <body>
 
     <header>
-        <h1>Azucena Sierra Garcia</h1>
-        <p>Professional Profile</p>
+        <div class="profile-pic">
+            <img src=".github/Grad_School_210902_TN_0137.jpg" alt="Azucena Sierra Garcia">
+        </div>
+        <div>
+            <h1>Azucena Sierra Garcia</h1>
+            <p>Professional Profile</p>
+        </div>
+        <div class="qr-code">
+            <img src=".github/ORCID.png" alt="QR Code">
+        </div>
     </header>
 
     <div class="container">
 
         <!-- Contact Information -->
         <section class="contact-info">
-            <p><strong>Address:</strong> 1176 Fifield Ave, Saint Paul, 55108</p>
-            <p><strong>Email:</strong> sierr047@umn.edu</p>
+            <h2>Contact Information</h2>
+            <p><strong>Address:</strong> 420 N Mississippi River Blvd, Saint Paul, 55104</p>
+            <p><strong>Email:</strong> <a href="mailto:sierr047@umn.edu">sierr047@umn.edu</a></p>
+            <p><strong>Phone:</strong> (123) 456-7890</p> <!-- Add phone number if applicable -->
+            <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/azucena-sierragarcia" target="_blank">linkedin.com/in/azucena-sierragarcia</a></p> <!-- Update with your LinkedIn URL -->
         </section>
 
         <!-- Professional Introduction -->
         <section id="introduction">
             <h2>Professional Introduction</h2>
-            <p>Azucena Sierra Garcia is a dedicated professional with a strong background in Land and Atmospheric Science, with extensive research and work experience in forest sciences, small-scale agriculture, and environmental projects. She is committed to advancing knowledge in sustainable land management and conservation.</p>
+            <p>Soil scientist and indigenous leader with a strong background in agronomy, Azucena Sierra Garcia has extensive research and work experience in forest sciences, small-scale agriculture, and environmental projects. Her commitment to advancing knowledge in sustainable land management and conservation integrates scientific expertise with a deep understanding of indigenous practices, aiming to promote sustainable agricultural practices in diverse environments.</p>
+        </section>
+
+        <!-- Research Focus -->
+        <section id="focus">
+            <h2>Research Focus</h2>
+            <p>Azucena Sierra Garcia's research focuses on the health of soils in small-scale agricultural systems. She uses precision agriculture tools to analyze the geomorphological characteristics of landscapes, particularly in complex and mountainous terrains. Her studies investigate soil erosion processes in steep terrains and the dynamics of soil organic carbon and nitrogen. The goal is to understand their behavior in organic production systems and improve soil management practices to enhance agricultural sustainability and productivity in challenging environments.</p>
         </section>
 
         <!-- Education -->
@@ -155,52 +221,25 @@
                     <em>October 2017</em><br>
                     Sierra García A., González Flores M.; Borja de La Rosa Ma.A.M, y Cervera Backhauss E.
                 </li>
-                <li>
-                    <strong>Comparative Analysis of reproductive techniques by Bursera Linanoe Guerrero, México</strong> <br>
-                    <em>April 2015</em><br>
-                    Sierra García A. & Borja de La Rosa M.A. International Agroforestry Convention, 6th Forestry Conference held in Habana, Cuba.
-                </li>
-                <li>
-                    <strong>Wood and non-wood potential of Bursera Linanoe of State of Guerrero, México</strong> <br>
-                    <em>September 2014</em><br>
-                    Sierra García A. & Borja de La Rosa A.M. International Conference of Forestry Students, San José Costa Rica.
-                </li>
             </ul>
         </section>
 
-        <!-- Awards -->
-        <section class="cv-section" id="awards">
-            <h2>Awards</h2>
+        <!-- Videos and Projects -->
+        <section class="videos-projects">
+            <h2>Videos and Projects</h2>
+            <p><strong>Videos:</strong></p>
             <ul>
-                <li>
-                    <strong>MnDRIVE Graduate Student Professional Development Award</strong> <br>
-                    <em>March 2023 - 2025</em>
-                </li>
-                <li>
-                    <strong>Mini-Grant IoNE Award for Leadership Project</strong> <br>
-                    <em>November 2022</em>
-                </li>
-                <li>
-                    <strong>CHS Graduate Fellowship</strong> <br>
-                    <em>November 2021</em>
-                </li>
-                <li>
-                    <strong>Soil, Water, and Conservation Award</strong> <br>
-                    <em>November 2021</em>
-                </li>
-                <li>
-                    <strong>Probepi-CIESAS-Conacyt Scholarship</strong> <br>
-                    <em>September 2019 - 2020</em>
-                </li>
-                <li>
-                    <strong>Fulbright García Robles</strong> <br>
-                    <em>May 2019 - 2022</em>
-                </li>
-                <li>
-                    <strong>Autonomous University of Chapingo Award</strong> <br>
-                    <em>December 2017</em><br>
-                    Recognition for students with high academic achievement.
-                </li>
-                <li>
-                    <strong
+                <li><a href="https://www.youtube.com/watch?v=ZJkKumkm-cw" target="_blank">Mountain Smallholder Agriculture: Rethinking Coffee Systems From Indigenous Perspectives </a></li>
+                <li><a href="https://www.youtube.com/watch?v=wg3baBnhOvI" target="_blank">Listening to the Land: Integrating Indigenous and Local Knowledge in Researching Agroforestry Systems in the Mountains of Mexicot</a></li>
+            </ul>
+            <p><strong>Projects:</strong></p>
+            <ul>
+                <li><a href=" https://snail-dalmatian-2fgp.squarespace.com/news/mini-grant-awarded" target="_blank"> Connecting and Engaging Young Indigenous Voices in Agricultural Science: Encouraging Leadership to Tackle the Food Climate Crisis in Indigenous Agriculture</a></li>
+</section>
+
+    </div>
+
+</
+
+  
 
