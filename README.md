@@ -13,7 +13,7 @@
         }
         header {
             position: relative;
-            background-image: url('./.github/DSCN0378.JPG'); /* Update with your image path */
+            background-image: url('pictures/DSCN0378.JPG'); /* Update with your image path */
             background-size: cover;
             background-position: center;
             color: white;
@@ -102,14 +102,14 @@
 
     <header>
         <div class="profile-pic">
-            <img src="./.github/Grad_School_210902_TN_0137.jpg" alt="Azucena Sierra Garcia">
+            <img src="pictures/Grad_School_210902_TN_0137.jpg" alt="Azucena Sierra Garcia">
         </div>
         <div>
             <h1>Azucena Sierra Garcia</h1>
             <p>Professional Profile</p>
         </div>
         <div class="qr-code">
-            <img src="./.github/ORCID.png" alt="QR Code">
+            <img src="pictures/ORCID.png" alt="QR Code">
         </div>
     </header>
 
