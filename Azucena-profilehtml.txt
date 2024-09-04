@@ -2,7 +2,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Azucena Sierra Garcia - Professional Profile</title>
+    <title>Azucena Sierra Garcia - Professional Profile </title>
     <style>
         body {
             font-family: Arial, sans-serif;
