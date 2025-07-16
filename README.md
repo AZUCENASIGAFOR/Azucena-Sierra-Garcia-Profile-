@@ -118,7 +118,7 @@
         <!-- Contact Information -->
         <section class="contact-info">
             <h2>Contact Information</h2>
-            <p><strong>Address:</strong> 570 Borlaug Hall, 1991 Upper Buford Circle, St Paul, MN 55108, US 
+            <p><strong>Address:</strong> 570 Borlaug Hall, 1991 Upper Buford Circle, St Paul, MN 55108,US 
             <p><strong>Email:</strong> <a href="mailto:sierr047@umn.edu">sierr047@umn.edu</a></p>
             <p><strong>Phone:</strong> (123) 456-7890</p> <!-- Add phone number if applicable -->
               <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/azucena-sierragarcia" target="_blank">linkedin.com/in/azucena-sierragarcia</a></p> <!-- Update with your LinkedIn URL -->
